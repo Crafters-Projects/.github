@@ -16,7 +16,7 @@
   <br/>
   <a href="">Marble</a>
   <br/>
-  <a href="">Lisa</a>
+  <a href="https://github.com/Crafters-Projects/lisa">Lisa</a>
   <br/>
 </div>
 
@@ -28,6 +28,6 @@
   <br/>
   <a href="">Marble</a>
   <br/>
-  <a href="">Lisa</a>
+  <a href="https://github.com/Crafters-Projects/lisa">Lisa</a>
   <br/>
 </div>
