@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/30319ca6-eab7-4eb0-b601-fe5371ad292a)
+![Image](https://github.com/user-attachments/assets/bd16379c-b1a4-4235-9c84-5c47447156e3)
 <h1 align="center">Welcome to Crafters Projects</h1>
 
 <div align="center">
