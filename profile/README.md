@@ -14,7 +14,7 @@
 <div align="center">
   <a href="">Munch</a>
   <br/>
-  <a href="">Sweet</a>
+  <a href="https://github.com/Crafters-Projects/sweet">Sweet</a>
   <br/>
   <a href="">Marble</a>
   <br/>
@@ -26,7 +26,7 @@
 <div align="center">
   <a href="">Munch</a>
   <br/>
-  <a href="">Sweet</a>
+  <a href="https://github.com/Crafters-Projects/sweet">Sweet</a>
   <br/>
   <a href="">Marble</a>
   <br/>
